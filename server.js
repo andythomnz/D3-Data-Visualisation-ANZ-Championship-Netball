@@ -20,6 +20,6 @@ app.get('/data', (req, res) => {
     res.send(data);
 })
 
-app.listen(3030, function(){
-    console.log('Server running on 3030...');
+app.listen(process.env.PORT || 3000, function(){
+    console.log('Server running on ' + process.env.PORT || 3000);
 });
