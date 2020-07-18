@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Team Rivalries</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.7/d3.js"></script>
+    <script src="./rivalries.js"></script>
+    <link rel="stylesheet" type="text/css" href="rivalries.css">
+    <link rel="stylesheet" type="text/css" href="./home-court-advantage.css">
+  </head>
+
+  <body>
+      <div class="title">
+          <h2 class="short-heading">ANZ Championship:</h2>
+          <h1 class="short-heading">Team Rivalries</h1>
+          <div class="nav">
+              <form action="performanceOverTime.html">
+                  <input type="submit" value="Performance Over Time" />
+              </form>
+              <form action="home-court-advantage.html">
+                  <input type="submit" value="Home Court Advantage" />
+              </form>
+              <form action="rivalries.html">
+                  <input type="submit" value="Team Rivalries" />
+              </form>
+          </div>
+              <label id="selectLabel" for="teamSelect">Select a rivalry: </label>
+              <select id="team1select" onchange="changeTeam(1, this.value)">
+                </select>
+                vs
+                <select id="team2select" onchange="changeTeam(2, this.value)">
+                </select>
+                
+  
+  
+      </div>
+    <div class="row">
+      <div class="col4">
+        <h2>Top Rivalries</h2>
+        <p>Showing all rivalries where each team has won at least <input type="text" id="perc" value="25" onchange="changeWinPercentage(this.value)" style="width: 15px">% of all games. Click on any rivalry, or use the dropdowns above to show a rivalry in more detail. <br><br> 
+        <svg id="barcanvas" style="height: 2100px; width:100%;">
+          
+        </svg>
+      </div>
+    
+      <div class="col6">
+        <div class="row">
+          <h2 id="graphtitle" ></h2>
+          <svg id="graphcanvas" style="height: 100%; width:100%;">
+        </svg>
+      </div>
+      </div>
+    </div>
+  </body>
+</html>

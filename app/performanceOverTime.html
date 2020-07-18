@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Performance Over Time</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.7/d3.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.js"></script>
+  <script src="./performanceOverTime.js"></script>
+  <script src="./index.js"></script>
+
+  <link rel="stylesheet" type="text/css" href="performanceOverTime.css">
+</head>
+
+<body>
+    <div class="title">
+        <h2 class="short-heading">ANZ Championship:</h2>
+        <h1 class="short-heading">Performance Over Time</h1>
+        <div class="nav">
+            <form action="performanceOverTime.html">
+                <input type="submit" value="Performance Over Time" />
+            </form>
+            <form action="home-court-advantage.html">
+                <input type="submit" value="Home Court Advantage" />
+            </form>
+            <form action="rivalries.html">
+                <input type="submit" value="Team Rivalries" />
+            </form>
+        </div>
+    </div>
+  <div id="visualization" class="visualization-div">
+      <div id="grid"></div>
+  </div>
+</body>
+</html>

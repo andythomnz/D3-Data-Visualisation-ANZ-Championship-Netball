@@ -1,0 +1,26 @@
+.col4 {
+    float: left;
+    width: 25%;
+    margin-left: 10%;
+  }
+  .col6 {
+    float: left;
+    text-align: center;
+    width: 55%;
+    margin-right: 10%;
+  }
+  
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .bar {
+      fill: none;
+      stroke:black;
+      stroke-width: 2px;
+  }
+  body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+

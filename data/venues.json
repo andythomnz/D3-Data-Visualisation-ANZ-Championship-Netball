@@ -1,0 +1,234 @@
+{
+    "venues": [
+        {
+            "name": "Trusts Stadium, Auckland",
+            "country": "New Zealand",
+            "city": "Auckland"
+        },
+        {
+            "name": "Gold Coast Convention and Exhibition Centre",
+            "country": "Australia",
+            "city": "Gold Coast"
+        },
+        {
+            "name": "Stadium Southland, Invercargill",
+            "country": "New Zealand",
+            "city": "Invercargill"
+        },
+        {
+            "name": "Westpac Arena, Christchurch",
+            "country": "New Zealand",
+            "city": "Christchurch"
+        },
+        {
+            "name": "Hisense Arena, Melbourne",
+            "country": "Australia",
+            "city": "Melbourne"
+        },
+        {
+            "name": "Te Rauparaha Arena, Porirua",
+            "country": "New Zealand",
+            "city": "Porirua"
+        },
+        {
+            "name": "ETSA Park, Adelaide",
+            "country": "Australia",
+            "city": "Adelaide"
+        },
+        {
+            "name": "Energy Events Centre, Rotorua",
+            "country": "New Zealand",
+            "city": "Rotorua"
+        },
+        {
+            "name": "Challenge Stadium, Perth",
+            "country": "Australia",
+            "city": "Perth"
+        },
+        {
+            "name": "Trusts Stadium, Auckland",
+            "country": "New Zealand",
+            "city": "Auckland"
+        },
+        {
+            "name": "Brisbane Convention and Exhibition Centre",
+            "country": "Australia",
+            "city": "Brisbane"
+        },
+        {
+            "name": "Edgar Centre, Dunedin",
+            "country": "New Zealand",
+            "city": "Dunedin"
+        },
+        {
+            "name": "Mystery Creek Events Centre, Hamilton",
+            "country": "New Zealand",
+            "city": "Hamilton"
+        },
+        {
+            "name": "State Sports Centre, Sydney",
+            "country": "Australia",
+            "city": "Sydney"
+        },
+        {
+            "name": "TSB Bank Arena, Wellington",
+            "country": "New Zealand",
+            "city": "Wellington"
+        },
+        {
+            "name": "Newcastle Entertainment Centre",
+            "country": "Australia",
+            "city": "Newcastle"
+        },
+        {
+            "name": "Acer Arena, Sydney",
+            "country": "Australia",
+            "city": "Sydney"
+        },
+        {
+            "name": "North Shore Events Centre, Auckland",
+            "country": "New Zealand",
+            "city": "Auckland"
+        },
+        {
+            "name": "Pettigrew Green Arena, Napier",
+            "country": "New Zealand",
+            "city": "Napier"
+        },
+        {
+            "name": "Adelaide Arena, Adelaide",
+            "country": "Australia",
+            "city": "Adelaide"
+        },
+        {
+            "name": "Vector Arena, Auckland",
+            "country": "New Zealand",
+            "city": "Auckland"
+        },
+        {
+            "name": "Adelaide Entertainment Centre",
+            "country": "Australia",
+            "city": "Adelaide"
+        },
+        {
+            "name": "State Netball and Hockey Centre, Melbourne",
+            "country": "Australia",
+            "city": "Melbourne"
+        },
+        {
+            "name": "Sydney Olympic Park Sports Centre",
+            "country": "Australia",
+            "city": "Sydney"
+        },
+        {
+            "name": "Queen Elizabeth Youth Centre, Tauranga",
+            "country": "New Zealand",
+            "city": "Tauranga"
+        },
+        {
+            "name": "Arena Manawatu, Palmerston North",
+            "country": "New Zealand",
+            "city": "Palmerston North"
+        },
+        {
+            "name": "CBS Canterbury Arena, Christchurch",
+            "country": "New Zealand",
+            "city": "Christchurch"
+        },
+        {
+            "name": "Invercargill ILT Velodrome",
+            "country": "New Zealand",
+            "city": "Invercargill"
+        },
+        {
+            "name": "State Netball and Hockey Centre,Melbourne",
+            "country": "Australia",
+            "city": "Melbourne"
+        },
+        {
+            "name": "Taupo Events Centre",
+            "country": "New Zealand",
+            "city": "Taupo"
+        },
+        {
+            "name": "Netball SA Stadium, Adelaide",
+            "country": "Australia",
+            "city": "Adelaide"
+        },
+        {
+            "name": "Stadium Southland Velodrome,Invercargill",
+            "country": "New Zealand",
+            "city": "Invercargill"
+        },
+        {
+            "name": "Claudelands Arena, Hamilton",
+            "country": "New Zealand",
+            "city": "Hamilton"
+        },
+        {
+            "name": "Lion Foundation Arena, Dunedin",
+            "country": "New Zealand",
+            "city": "Dunedin"
+        },
+        {
+            "name": "TECT Arena, Tauranga",
+            "country": "New Zealand",
+            "city": "Tauranga"
+        },
+        {
+            "name": "Allphones Arena, Sydney",
+            "country": "Australia",
+            "city": "Sydney"
+        },
+        {
+            "name": "Rod Laver Arena, Melbourne",
+            "country": "Australia",
+            "city": "Melbourne"
+        },
+        {
+            "name": "Trafalgar Centre, Nelson",
+            "country": "New Zealand",
+            "city": "Nelson"
+        },
+        {
+            "name": "ASB Baypark Arena, Tauranga",
+            "country": "New Zealand",
+            "city": "Tauranga"
+        },
+        {
+            "name": "Perth Arena, Perth",
+            "country": "Australia",
+            "city": "Perth"
+        },
+        {
+            "name": "State Netball Hockey Centre, Melbourne",
+            "country": "Australia",
+            "city": "Melbourne"
+        },
+        {
+            "name": "Brisbane Convention & Exhibition Centre",
+            "country": "Australia",
+            "city": "Brisbane"
+        },
+        {
+            "name": "Westpac Centre, Christchurch",
+            "country": "New Zealand",
+            "city": "Christchurch"
+        },
+        {
+            "name": "Vodafone Arena, Melbourne",
+            "country": "Australia",
+            "city": "Melbourne"
+        },
+        {
+            "name": "Mystery Creek Events Centre,Hamilton",
+            "country": "New Zealand",
+            "city": "Hamilton"
+        },
+        {
+            "name": "Adelaide Entertainment Centre, Adelaide",
+            "country": "Australia",
+            "city": "Adelaide"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Home Court Advantage</title>
+    <script type="text/javascript" src="https://d3js.org/d3.v5.js"></script>
+    <script type="text/javascript" src="./home-court-advantage.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.js"></script>
+    <link rel="stylesheet" type="text/css" href="./home-court-advantage.css">
+</head>
+
+<body onresize="displayDefenseGraph()">
+    <div class="title">
+        <h2 class="short-heading">ANZ Championship:</h2>
+        <h1 class="short-heading">Home Court Advantage</h1>
+        <div class="nav">
+            <form action="performanceOverTime.html">
+                <input type="submit" value="Performance Over Time" />
+            </form>
+            <form action="home-court-advantage.html">
+                <input type="submit" value="Home Court Advantage" />
+            </form>
+            <form action="rivalries.html">
+                <input type="submit" value="Team Rivalries" />
+            </form>
+        </div>
+        <form name="form1">
+            <label id="selectLabel" for="teamSelect">Select a team: </label>
+            <select id="teamSelect" name="jumpmenu"
+                onChange="jumpto(document.form1.jumpmenu.options[document.form1.jumpmenu.options.selectedIndex].value)">
+            </select>
+        </form>
+
+
+    </div>
+    <div class="defense-chart container"></div>
+
+</body>
+
+</html>
